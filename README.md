@@ -1,2 +1,2 @@
-# web105
-web105 2020
+# cse 0408 Artificial lab
+cse 0408 2021
